@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class DBConnectionSQLServer {
-
+	//test thu
 	private final String serverName = "DESKTOP-UR1R776\\SQLEXPRESS";
 	private final String dbName = "LabWEBLogin";
 	private final String portNumber = "60584";
